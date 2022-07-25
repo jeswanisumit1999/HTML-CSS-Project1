@@ -6,9 +6,6 @@
     display: flex;
 }
 
-.navbar-container div{
-    /* flex :1 */
-}
 .navbar-container > div:nth-child(2){
     flex: auto;
 }
@@ -34,17 +31,10 @@ div ul{
     justify-content: center;
     width: 200px;
 }
-.button-group .search-icon{
-    /* flex: 2; */
-}
-.button-group .nav-button{
-    /* flex: 1; */
-}
+
 
 .star,.hero-container > .globe{
     position: absolute;
-    /* top: 10px; */
-}
 .globe{
     top: 0px;
     left: 55%
@@ -79,7 +69,6 @@ section[aria-label="banner"]{
 }
 .hero-container{
     display: flex;
-    /* margin: 50px; */
     padding: 50px;
     flex-grow: 1;
     position: relative;
@@ -88,14 +77,10 @@ section[aria-label="banner"]{
     width: 100%;
 }
 .square{
-    /* top: 220px; */
-    /* top: 20px; */
     position: absolute;
     left: 100px;
     bottom: 50px;
     z-index: -1;
-    /* width: 50%; */
-    /* height: 50%;     */
 }
 .square img{
     width: 90%;

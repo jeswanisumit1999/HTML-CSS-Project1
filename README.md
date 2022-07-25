@@ -10,7 +10,7 @@
 - Selectors, Positions, and alignments
 - Working with fonts
 
-## Time to finish the Prject
+## Time to finish the Project
 - 5 hours
 
 ## Live Link

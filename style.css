@@ -35,6 +35,7 @@ div ul{
 
 .star,.hero-container > .globe{
     position: absolute;
+}
 .globe{
     top: 0px;
     left: 55%
